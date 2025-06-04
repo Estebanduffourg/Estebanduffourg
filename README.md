@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Estebanduffourg
 - 👀 I’m interested in cybersecurity and space
 - 🌱 I’m currently learning basic pentesting
-- 💞️ I’m looking to collaborate on ISS with esa 
-- 📫 How to reach me ?
+- 💞️ I’m looking to collaborate on ISS with ESA
+- 📫 How to reach me?
 
 <!---
 Estebanduffourg/Estebanduffourg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
